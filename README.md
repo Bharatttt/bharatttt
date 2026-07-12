@@ -71,7 +71,7 @@ A Python distributed file system using chunk-based replication across storage no
 ## Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bharatttt/bharatttt/output/pacman-contribution-graph.svg" alt="Pac-Man contribution game" />
+  <img src="https://raw.githubusercontent.com/Bharatttt/Bharatttt/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution game" />
 </p>
 
 ## Connect
