@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Bharat%20Meharwade&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Cyber%20Security%20Student%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:991b1b&height=220&section=header&text=Bharat%20Meharwade&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20Cyber%20Security%20Student%20%7C%20AI%2FML%20Builder&descAlignY=58&descSize=20" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Building+AI-powered+cybersecurity+systems;Engineering+LLM+agents+and+RAG+pipelines;Exploring+network+automation+and+distributed+systems" alt="Typing SVG" />
@@ -87,5 +87,16 @@ A Python distributed file system using chunk-based replication across storage no
     <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+<p align="center">
+  ⭐️ <strong>From Bharat Meharwade</strong>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer" />
+<p align="center">
+  🚀 <em>"Code is like humor. When you have to explain it, it's bad."</em> — Cory House
+</p>
+
+<p align="center">
+  Let's build something amazing together! 🚀
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:991b1b&height=120&section=footer" />
