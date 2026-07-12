@@ -32,82 +32,60 @@ const bharat = {
 
 ### Hybrid Transformer-CNN Explainable AI
 
-<p align="center">
-  <a href="https://github.com/Anish-Kanna/Hybrid-Transformer-CNN-Neuro-Symbolic-Explainable-AI-for-Cyber-Threat-Intelligence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anish-Kanna&repo=Hybrid-Transformer-CNN-Neuro-Symbolic-Explainable-AI-for-Cyber-Threat-Intelligence&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Project code" /></a>
-</p>
-
-Group project for intrusion detection using a hybrid Transformer-CNN model, SHAP-based explainability, adversarial robustness, and real-time inference for transparent cyber-threat analysis.
-
-
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish-Kanna/Hybrid-Transformer-CNN-Neuro-Symbolic-Explainable-AI-for-Cyber-Threat-Intelligence)
+A group project focused on intrusion detection through a hybrid Transformer-CNN model. It combines SHAP-based explainability, adversarial robustness, and real-time inference for transparent cyber-threat analysis.
 
 ### AI Network Trouble Ticket Agent
 
-<p align="center">
-  <a href="https://github.com/Bharatttt/Network-Trouble-Ticket-AI-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatttt&repo=Network-Trouble-Ticket-AI-Agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Project code" /></a>
-</p>
-
-Full-stack agentic NOC assistant that correlates live alarms, network topology, historical ticket resolutions, and SOPs to recommend incident-resolution steps with human-in-the-loop approval.
-
-
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharatttt/Network-Trouble-Ticket-AI-Agent)
+A full-stack agentic NOC assistant that correlates live alarms, network topology, historical ticket resolutions, and SOPs to recommend resolution steps with human-in-the-loop approval.
 
 ### Distributed File System with Replication
 
-<p align="center">
-  <a href="https://github.com/Bharatttt/Distributed-File-System-with-Replication"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bharatttt&repo=Distributed-File-System-with-Replication&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Project code" /></a>
-</p>
-
-A Python distributed file system with chunk-based replication across storage nodes, metadata tracking, automatic chunking/reassembly, and socket-based inter-node communication for fault-tolerant storage.
-
-
-[![Code](https://img.shields.io/badge/Code-GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharatttt/Distributed-File-System-with-Replication)
+A Python distributed file system using chunk-based replication across storage nodes, metadata tracking, automatic chunking and reassembly, and socket-based inter-node communication for fault-tolerant storage.
 
 ## Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark" alt="Python, C, JavaScript, HTML, CSS" />
 </p>
 
-### Backend & Infra
+### Backend & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,linux&theme=dark" alt="FastAPI, Docker, Linux" />
 </p>
 
 ### AI & Data
+
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" />
 </p>
 
 ### Dev Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
 </p>
 
-## GitHub Stats
+## Contribution Game
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatttt&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" alt="Bharat's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatttt&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" alt="Most used languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharatttt&theme=nord&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatttt&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/bharatttt/bharatttt/output/pacman-contribution-graph.svg" alt="Pac-Man contribution game" />
 </p>
 
 ## Connect
 
 <p>
-  <a href="https://linkedin.com/in/bharatttt"><img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bharatmeharwade085@gmail.com"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/bharatttt">
+    <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://huggingface.co/bharatttt">
+    <img src="https://img.shields.io/badge/Hugging%20Face-7dd3fc?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  </a>
+  <a href="mailto:bharatmeharwade085@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer" />
