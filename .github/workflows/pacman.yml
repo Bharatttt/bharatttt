@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: Bharatttt
           theme: dark
-          output: dist/pacman-contribution-graph.svg
+          output: dist/pacman-contribution-graph-dark.svg
 
       - name: Publish Pac-Man animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
