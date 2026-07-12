@@ -1,0 +1,35 @@
+name: Generate Pac-Man Contribution Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Bharatttt
+          theme: dark
+          output: dist/pacman-contribution-graph.svg
+
+      - name: Publish Pac-Man animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          commit_message: "Update Pac-Man contribution game"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
