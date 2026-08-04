@@ -38,6 +38,10 @@ A group project focused on intrusion detection through a hybrid Transformer-CNN 
 
 A full-stack agentic NOC assistant that correlates live alarms, network topology, historical ticket resolutions, and SOPs to recommend resolution steps with human-in-the-loop approval.
 
+###Identity Lifecycle Automation (Joiner-Mover-Leaver)
+
+Python IAM engine automating joiner/mover/leaver lifecycle via mock AD, reconciling group memberships against RBAC policy with safe DRY_RUN/APPLY_MOCK modes, audit logging, and rollback support.
+
 ### Distributed File System with Replication
 
 A Python distributed file system using chunk-based replication across storage nodes, metadata tracking, automatic chunking and reassembly, and socket-based inter-node communication for fault-tolerant storage.
